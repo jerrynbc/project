@@ -1,10 +1,10 @@
 # 代码功能说明
 1. 可以批量导入百度云盘的分享链接
 2. 可以通过百度云盘的账号密码，自动获取到cookie
-3. share_url的内容样例
-https://pan.baidu.com/s/1WuOFZuBdeui2gohif0c12g	密码:12cd
-https://pan.baidu.com/s/1Qr6WaBh_pkq-i8hIpu6d7A	密码:o3tr
-https://pan.baidu.com/s/1dbp0zXE6xs3XMiJsssssNw	密码:i4rz
+3. share_url的内容样例  
+https://pan.baidu.com/s/1WuOFZuBdeui2gohif0c12g	密码:12cd  
+https://pan.baidu.com/s/1Qr6WaBh_pkq-i8hIpu6d7A	密码:o3tr  
+https://pan.baidu.com/s/1dbp0zXE6xs3XMiJsssssNw	密码:i4rz  
 
 
 # 还要完善的地方
