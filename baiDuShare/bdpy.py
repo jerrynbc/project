@@ -32,7 +32,7 @@ def use_cookie(driver):
     driver.refresh()
 
 
-# 将分享链接保存到网盘的根目录，step默认间隔1秒，如果网络延长大，可以调高参数
+# 将分享链接保存到网盘的根目录，step默认间隔1秒，如果网络延迟高，可以调大fztime参数
 def load2url(driver,url,passwd,fztime=1):
     driver.get(url)
     sleep(fztime)
